@@ -135,7 +135,7 @@ export default {
 }
 .home-inner .banner {
   padding: 33px 36px;
-  background-image: url("../assets/images/商品详情页_banner_bg_03.png");
+  background-image: url("../assets/images/banner_bg_03.png");
   position: relative;
 }
 .home-inner .info {
