@@ -8,7 +8,7 @@
         <div class="df">
           <div class="info-left">
             <div class="pre df">
-              <img src="../assets/images/商品详情页_预售_17.png" alt />
+              <img src="../assets/images/17.png" alt />
               <p class="goodName">{{preGoods.goodName}}</p>
             </div>
             <div class="time">
@@ -68,8 +68,8 @@
       </div>
 
       <div class="details">
-        <img src="../assets/images/商品详情页1_03.jpg" alt />
-        <img src="../assets/images/商品详情页2_05.jpg" alt />
+        <img src="../assets/images/1_03.jpg" alt />
+        <img src="../assets/images/2_05.jpg" alt />
       </div>
     </div>
   </div>

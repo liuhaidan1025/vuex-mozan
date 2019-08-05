@@ -7,7 +7,7 @@
       <div class="showGoods">
         <div class="show-inner df">
           <div>
-            <img src="../assets/images/商品详情页_lunbo_03.jpg" alt />
+            <img src="../assets/images/lunbo_03.jpg" alt />
             <!-- <img :src="showGoods.img" alt /> -->
           </div>
           <div>

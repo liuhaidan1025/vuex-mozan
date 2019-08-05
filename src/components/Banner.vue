@@ -3,13 +3,13 @@
     <swiper :options="swiperOption" ref="mySwiper">
       <!-- slides -->
       <swiper-slide>
-        <img src="../assets/images/商品详情页_lunbo_03.jpg" alt />
+        <img src="../assets/images/lunbo_03.jpg" alt />
       </swiper-slide>
       <swiper-slide>
-        <img src="../assets/images/商品详情页_lunbo_05.jpg" alt />
+        <img src="../assets/images/lunbo_05.jpg" alt />
       </swiper-slide>
       <swiper-slide>
-        <img src="../assets/images/商品详情页_lunbo_08.jpg" alt />
+        <img src="../assets/images/lunbo_08.jpg" alt />
       </swiper-slide>
     </swiper>
     <div class="swiper-button-prev" slot="button-prev"></div>
